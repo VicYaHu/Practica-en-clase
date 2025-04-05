@@ -1,0 +1,15 @@
+*{
+    
+}
+.padre {
+    display: flex;            
+    border: solid black;      
+    padding: 100px;           
+    gap: 30px;                
+    height: 300px;            
+  }
+  
+.hijo {
+    padding: 20px;            
+    text-align: center;
+  }
